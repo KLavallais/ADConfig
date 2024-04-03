@@ -45,20 +45,12 @@
 ![Selecting Groups](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_15.png?raw=true)
 *The selection interface for assigning the user to groups like 'Domain Admins' is displayed.*
 
-## Remote Desktop Connection
+### 4. Modifying User Account Properties
+![User Account Properties](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_20.png?raw=true)
+*The dialog for editing the user account properties, such as logon name and account options.*
 
-### 1. Updating Remote Desktop Credentials
-![Remote Desktop Credentials](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_16.png?raw=true)
-*Credentials update for secure access to the system via Remote Desktop Connection.*
-
-### 2. Saving Remote Desktop Credentials
-![Save Credentials](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_17.png?raw=true)
-*Option to save credentials for simplifying future Remote Desktop sessions.*
-
-## System Identification and Networking
-
-### System Properties Access
-![System Properties](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_18.png?raw=true)
-*System properties are accessed to view or change computer description, name, and domain or workgroup settings.*
+### 5. Confirming User Password Change
+![Password Change Confirmation](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_21.png?raw=true)
+*A confirmation dialog displays the successful update of the user's password.*
 
 
