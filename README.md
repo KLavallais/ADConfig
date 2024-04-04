@@ -31,26 +31,6 @@
 ![User Setup Completion](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_11.png?raw=true)
 *The newly added user is now listed under the “_ADMINS” OU in the Active Directory Users and Computers interface.*
 
-## User Properties and Group Management
 
-### 1. Editing User Properties
-![User Properties](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_13.png?raw=true)
-*Accessing the properties of 'Kris Lavallais' to modify account details, group memberships, and profile configurations.*
-
-### 2. Adding User to Groups
-![Add to Group](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_14.png?raw=true)
-*Interface for adding the user to groups within the domain.*
-
-### 3. Selecting Groups for User
-![Selecting Groups](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_15.png?raw=true)
-*The selection interface for assigning the user to groups like 'Domain Admins' is displayed.*
-
-### 4. Modifying User Account Properties
-![User Account Properties](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_20.png?raw=true)
-*The dialog for editing the user account properties, such as logon name and account options.*
-
-### 5. Confirming User Password Change
-![Password Change Confirmation](https://github.com/KLavallais/KLavallais/blob/main/images/ADConfig_21.png?raw=true)
-*A confirmation dialog displays the successful update of the user's password.*
 
 
