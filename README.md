@@ -1,4 +1,23 @@
 # Active Directory Configuration Guide
+![Active Directory Banner](https://github.com/KLavallais/KLavallais/blob/assets/Microsoft-Active-Directory-Banner_0001.png?raw=true)
+---
+## Tools/Programs Used:
+- **Windows Server 2022**: Operating system used to manage and configure Active Directory.
+- **Server Manager**: Used to manage roles, features, and configuration of the Active Directory environment.
+- **Active Directory Users and Computers (ADUC)**: MMC snap-in for managing AD objects such as users, groups, and OUs.
+- **MMC (Microsoft Management Console)**: Tool used to manage Windows infrastructure, including ADUC.
+
+---
+
+## Skills Demonstrated:
+- Creating Organizational Units (OUs) for logical structuring of users.
+- Adding and managing user accounts in Active Directory.
+- Assigning user objects to specific OUs.
+- Verifying and maintaining AD structure using ADUC.
+- Organizing administrative user privileges for network management.
+- Active Directory domain administration and organizational unit hierarchy setup.
+
+---
 
 ## Organizational Units and User Creation Process
 
